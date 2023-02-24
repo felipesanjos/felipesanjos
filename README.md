@@ -40,12 +40,10 @@
     </a>
 </p>
 
-<p>
-    ![Github Badge](https://github.com/felipesanjos)
-    ![Linkedin Badge]([https://www.linkedin.com/in/felipesanjos/](https://br.linkedin.com/in/felipe-serpa-dos-anjos-5909ab114))
-    ![Gmail Badge](mailto:felipesanjos.dev@gmail.com)
-    <img src="https://wakatime.com/badge/user/0df2272f-e652-41a3-bb0e-7de298679c6b.svg" alt="felipesanjos" />
-</p>
+![Github Badge](https://github.com/felipesanjos)
+![Linkedin Badge]([https://www.linkedin.com/in/felipesanjos/](https://br.linkedin.com/in/felipe-serpa-dos-anjos-5909ab114))
+![Gmail Badge](mailto:felipesanjos.dev@gmail.com)
+<img src="https://wakatime.com/badge/user/0df2272f-e652-41a3-bb0e-7de298679c6b.svg" alt="felipesanjos" />
 
 ## Status
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipesanjos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
