@@ -40,9 +40,9 @@
     </a>
 </p>
 
-![Github Badge](https://github.com/felipesanjos)
-![Linkedin Badge]([https://www.linkedin.com/in/felipesanjos/](https://br.linkedin.com/in/felipe-serpa-dos-anjos-5909ab114))
-![Gmail Badge](mailto:felipesanjos.dev@gmail.com)
+![Github Badge](https://github.com/gstv048)
+![Linkedin Badge](https://www.linkedin.com/in/gstv048/)
+![Gmail Badge](mailto:gustavohenrique27sc@gmail.com)
 <img src="https://wakatime.com/badge/user/0df2272f-e652-41a3-bb0e-7de298679c6b.svg" alt="felipesanjos" />
 
 ## Status
